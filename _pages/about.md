@@ -19,6 +19,7 @@ latest_posts: false
 
 ## About me: 
 
+
 I am a third-year master in ECE at the Georgia Institute of Technology and Tianjin University. Before that, I earned my bachelor’s degrees from Tianjin University in 2022. I am fortunate to collaborate with researchers of Georgia Tech, HKUST, University of Macau and Tianjin University. 
 
 
@@ -37,4 +38,4 @@ I am actively seeking Ph.D. positions for Fall 2025. If you have or know of any 
 
 Reviewer
 
-· Conference: ISCAS(2025), VCIP(2024)
+· Conference: [ISCAS(2025)](https://2025.ieee-iscas.org/),[ VCIP(2024)](https://www.vcip2024.org/)

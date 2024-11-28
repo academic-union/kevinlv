@@ -5,7 +5,7 @@ title: MMS
 
 nav: true
 nav_order: 4
-
+latest_posts: false
 ---
 
 Movie, Music and Sports

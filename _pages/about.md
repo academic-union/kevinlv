@@ -21,6 +21,9 @@ latest_posts: false
 
 I am a third-year master in ECE at the Georgia Institute of Technology and Tianjin University. Before that, I earned my bachelor’s degrees from Tianjin University in 2022. I am fortunate to collaborate with researchers of Georgia Tech, HKUST, University of Macau and Tianjin University. 
 
+
+
+
 I am currently or potentially interested in the following topics:
 
 * Domain-specific accelerator: How to design task-oriented hardware accelerators, specifically focusing on real-time data handling and low-power performance?

@@ -38,4 +38,4 @@ I am actively seeking Ph.D. positions for Fall 2025. If you have or know of any 
 
 Reviewer
 
-· Conference: [ISCAS(2025)](https://2025.ieee-iscas.org/),[ VCIP(2024)](https://www.vcip2024.org/)
+<span>·</span>Conference: [ISCAS(2025)](https://2025.ieee-iscas.org/),[ VCIP(2024)](https://www.vcip2024.org/)

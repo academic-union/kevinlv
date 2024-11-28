@@ -3,3 +3,5 @@
 .tweet-cache/
 
 _site/
+
+Gemfile.lock

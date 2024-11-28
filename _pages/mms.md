@@ -15,16 +15,16 @@ In my spare time, I enjoy playing basketball (I'm a fan of Russell Westbrook), l
 
 ## Music
 
-![](assets/img/mms/music1.png)
+![](/kevinlv/assets/img/mms/music1.png)
 
-![](assets/img/mms/music2.png)
+![](/kevinlv/assets/img/mms/music2.png)
 
 "I am a fan of David Tao and Jay Chou, and I am currently collecting their albums.
 
 
 ## Sports
 
-![](assets/img/mms/sport1.png)
+![](/kevinlv/assets/img/mms/sport1.png)
 
 Let’s go Jackets!!!!!
 

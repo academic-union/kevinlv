@@ -40,3 +40,35 @@ Reviewer
 
 <li> Conference:  <a href="https://2025.ieee-iscas.org/"> ISCAS(2025)</a>, <a href="https://www.vcip2024.org/">VCIP(2024)</a>
   </li>
+
+
+Internship Experience:
+
+<li> Hardware architecture engineer in  <a href="https://www.momenta.cn/"> Momenta</a>, <a href="https://en.horizon.auto/">Horizon Robotics</a> , Shenzhen, China May 2023-Aug 2023
+  </li>
+
+Teaching Experience:
+
+<li>Teaching Assistant, The Georgia Institute of Technology    23Spring
+ECE6601 Technology Entrepreneurship  Instructor：Prof. Gregory B.  <a href="https://ece.gatech.edu/directory/gregory-mihalik"> Mihalik</a>
+  </li>
+
+
+
+  <!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ3XcmCqU_E4LqAYMcoFSQOJ-LcWAIVoL0JUja9LiHQ3366ju7WsMhPRUtSfqfAQXjuPaHizPUr3?gv=true',
+      color: '#3F51B5',
+      label: "Book an appointment with Kevin Lyu ",
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->

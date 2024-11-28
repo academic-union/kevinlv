@@ -31,7 +31,7 @@ I am currently or potentially interested in the following topics:
 * **Software and Hardware co-design**: How to integrate software and hardware to achieve task-specific accelerators?
 * **Image coding for machine vision tasks**: How can we develop deep learned image compression techniques that effectively support a range of downstream vision tasks like semantic segmentation and object detection?
 
-I am actively seeking Ph.D. positions for Fall 2025. If you have or know of any opportunities that align with my interests, I would be grateful if you could contact me at ylyu72@gatech.edu. I am very interested in discussing any potential opportunities. Thank you!
+I am actively seeking <span  style="color:red"> Ph.D. positions for Fall 2025 </span>. If you have or know of any opportunities that align with my interests, I would be grateful if you could contact me at ylyu72@gatech.edu. I am very interested in discussing any potential opportunities. Thank you!
 
 
 ## Academic Service:
@@ -42,18 +42,20 @@ Reviewer
   </li>
 
 
-Internship Experience:
+## Internship Experience:
 
 <li> Hardware architecture engineer in  <a href="https://www.momenta.cn/"> Momenta</a>, <a href="https://en.horizon.auto/">Horizon Robotics</a> , Shenzhen, China May 2023-Aug 2023
   </li>
 
-Teaching Experience:
+
+## Teaching Experience:
 
 <li>Teaching Assistant, The Georgia Institute of Technology    23Spring
 ECE6601 Technology Entrepreneurship  Instructor：Prof. Gregory B.  <a href="https://ece.gatech.edu/directory/gregory-mihalik"> Mihalik</a>
   </li>
 
 
+I am open to discussing research ideas, exploring collaborations, and offering advice, whether life or technically...I will do my best to help
 
   <!-- Google Calendar Appointment Scheduling begin -->
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
